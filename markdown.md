@@ -10,9 +10,7 @@ e.g.
 
 result  
 
-```
 _italic dayo~_
-```
 
 
 Surround words with two astarisks (**).
@@ -26,9 +24,7 @@ e.g.
 
 result  
 
-```
 **bold dayo~**
-```
 
 
 Underscore (_) and two astarisks (**).
@@ -42,9 +38,7 @@ e.g.
 
 result  
 
-```
 **_italics and bold dayo~_**
-```
 
 
 ## Headers
@@ -65,13 +59,12 @@ e.g.
 
 result
 
-```
 # Header one
 ## Header two
 ### Header three
 #### Header four
 ##### Header five
-```
+
 
 
 ## Links
@@ -86,9 +79,8 @@ e.g.
 
 result  
 
-```
 [Visit GitHub!](www.github.com)
-```
+
 
 
 
@@ -104,9 +96,8 @@ e.g.
 
 result  
 
-```
 ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
-```
+
 
 
 ## Blockquotes
@@ -122,10 +113,9 @@ I read this interesting quote the other day:
 
 result  
 
-```
 I read this interesting quote the other day:  
 > "Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
-```
+
 
 
 Grouping blockquotes
@@ -143,13 +133,12 @@ e.g.
 
 result  
 
-```
 > Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
 >
 > His father told him that story: his father looked at him through a glass: he had a hairy face.
 >
 > He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.
-```
+
 
 
 ## Lists
@@ -167,12 +156,11 @@ e.g.
 
 result  
 
-```
 * Milk
 * Eggs
 * Salmon
 * Butter
-```
+
 
 
 An ordered list is prefaced with numbers.
@@ -188,11 +176,10 @@ e.g.
 
 result  
 
-```
 1. Cut the cheese
 2. Slice the tomatoes
 3. Rub the tomatoes in flour
-```
+
 
 
 Indent each astarisk _one space more_ than the preceding item.
@@ -213,7 +200,6 @@ e.g.
 
 result  
 
-```
 * Calculus
  * A professor
  * Has no hair
@@ -222,7 +208,7 @@ result
  * An opera singer
  * Has white hair
    * Is possibly mentally unwell
-```
+
 
 
 Include all sorts of other Markdown elements, like blockquotes, or even other lists.
@@ -241,14 +227,13 @@ e.g.
 
 result  
 
-```
 1. Cut the cheese  
   * Make sure that the cheese is cut into little triangles.
 
 2. Slice the tomatoes  
   * Be careful when holding the knife.  
   * For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
-```
+
 
 
 
@@ -266,9 +251,6 @@ Very well then I contradict myself,··
 
 result  
 
-```
 Do I contradict myself?  
 Very well then I contradict myself,  
 (I am large, I contain multitudes.)
-```
-
