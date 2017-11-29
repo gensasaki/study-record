@@ -254,3 +254,44 @@ Very well then I contradict myself,··
 Do I contradict myself?  
 Very well then I contradict myself,  
 (I am large, I contain multitudes.)
+
+
+
+## Horizontal Line
+Put more than 3 hyphens (-).
+
+**e.g.**
+
+```
+---
+```
+
+
+**result**
+
+---
+
+
+## Tables
+
+**e.g.**
+
+```
+Left Align | Center Align | Right Align
+------ | :------: | ------:
+green | 1 | japan
+red | 2 | china
+blue | 3 | us
+yellow | 4 | canada
+```
+
+
+**result**
+
+Left Align | Center Align | Right Align
+------ | :------: | ------:
+green | 1 | japan
+red | 2 | china
+blue | 3 | us
+yellow | 4 | canada
+
