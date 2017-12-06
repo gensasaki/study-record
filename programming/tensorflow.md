@@ -55,6 +55,7 @@ tensor typeに合わないものを渡すとエラーが発生する。
 x = tf.add(1, 2) # 3
 y = tf.subtract(5, 1) # 4
 z = tf.multiply(3, 8) # 24
+```
 
 ### Converting types
 ```python
