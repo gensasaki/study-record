@@ -63,7 +63,7 @@ tf.subtract(tf.cast(tf.constant(2.0), tf.int32), tf.constant(1)) # 1
 ```
 
 ### tf.Variable()
-通常のPythonの変数と同じように書き換え可能。*tf.constant()*や*tf.placeholder()*は書き換え不可能。
+通常のPythonの変数と同じように書き換え可能。`tf.constant()`や`tf.placeholder()`は書き換え不可能。
 ```
 x = tf.Variable(5)
 ```
