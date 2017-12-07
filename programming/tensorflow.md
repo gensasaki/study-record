@@ -67,7 +67,7 @@ tf.subtract(tf.cast(tf.constant(2.0), tf.int32), tf.constant(1)) # 1
 ```
 x = tf.Variable(5)
 ```
-*tf.Variable()*はsessionの中でstateを維持する。したがって、明示的にinitializeする必要がある。*tf.global_variables_initializer()*ですべての変数のstateをinitializeする。
+`tf.Variable()`はsessionの中でstateを維持する。したがって、明示的にinitializeする必要がある。`tf.global_variables_initializer()`ですべての変数のstateをinitializeする。
 ```python
 init = tf.global_variables_initializer()
 with tf.Session() as sess:
